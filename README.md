@@ -69,6 +69,3 @@ This repository contains simple Python programs to practice **basic programming 
 ✔ Helps understand number properties and summations  
 
 ---
-
-## 👨‍💻 Author
-- Your Name (replace with your actual name)  
